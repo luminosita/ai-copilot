@@ -1,22 +1,39 @@
+## Watch
+- [ ] Cole Medin - Introducing RAG 2.0: Agentic RAG + Knowledge Graphs
+- [ ] Cole Medin - The EASIEST Possible Strategy for Accurate RAG
+- [ ] Cole Medin - I Built the Ultimate RAG MCP Server for AI Coding
+- [ ] Cole Medin - 10x Your AI Agents with this ONE Agent Achitecture
+
 ## TODO:
+- [ ] RAG 2.0 (rag_2_0.md)
+    - [ ] HyDE
+    - [ ] Self-RAG
+    - [ ] Adaptive RAG / Corrective RAG
+    - [ ] Graph RAG
+    - [ ] Tool-augmented RAG
+    - [ ] Agentic RAG
 - [x] Convert AI chats to Markdown
 - [x] Organize MD files for further reading and specs
 
 ## Features:
+- [ ] Long-term document storage (markdown_document_strategy.md)
 - [ ] Parsing (AST, frontmatter, metadata)
 - [ ] Indexing (vector store, graph store, keywords, metadata)
-- [ ] Ontology/governance
+- [ ] Ontology
+- [ ] Governance (SME review, graph_db_benefits.md)
 - [ ] Retrieval
 - [ ] MCP Server based on (https://github.com/luminosita/PRPs-agentic-eng) for chat-based system interaction
 - [ ] Full context-aware workflow orchestration with human interaction (Archon-like system with phases: research, backlog, review, in progress, done ...)
-- [ ] Github hook as a orchestration trigger
+- [ ] Github hook as an orchestration trigger
 - [ ] New/existing deep research agent integration 
     - [ ] New products -> Main PRD document
     - [ ] Technology/framework/library -> ADR Record
     - [ ] Feature with user stories -> Feature PRD Spec
 
 ## Parsing/Indexing Features:
-- [ ] Local/remote embeddings AI Model
+- [ ] graph_db_benefits.md
+- [ ] graph_db_for_company_docs.md
+- [ ] Local/remote embeddings AI Model (Cole Medin - Create Your Own Private Local AI Cloud Stack Under 20)
 - [ ] Data chunks
 - [ ] Document sources
     - [ ] Markdown files
@@ -37,6 +54,10 @@
 - [ ] Production-ready vector DB
 - [ ] Same model for indexing and searching (CRITICAL)
 
+## Context Engineering
+- [ ] rag_2_0_iterative_software_development_process.md
+- [ ] context_enginnering_traditional_vs_context.md
+- [ ] context_engineering.md
 
 ## PRPs:
 - [ ] Main PRD + frontmatter
