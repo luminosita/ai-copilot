@@ -1,3 +1,10 @@
+## TODO:
+- [x] Convert AI chats to Markdown
+- [x] Organize MD files for further reading and specs
+- [ ] Streamlit chat for further research
+    - [ ] draft idea
+    - [ ] Rasmus PRP to create PRD, ADR, Engineering Specs
+
 ## Features:
 - Parsing (AST, frontmatter, metadata)
 - Indexing (vector store, graph store, keywords, metadata)
