@@ -54,6 +54,12 @@
 - [ ] Production-ready vector DB
 - [ ] Same model for indexing and searching (CRITICAL)
 
+# Kubernetes CRD Documentation
+- [ ] Index CRD documentation
+- [ ] Create CRD registration hook (admission hook)
+- [ ] Initial indexing on deployment
+- [ ] MCP tool for retrieval 
+
 ## Context Engineering
 - [ ] rag_2_0_iterative_software_development_process.md
 - [ ] context_enginnering_traditional_vs_context.md
